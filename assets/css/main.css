@@ -92,7 +92,7 @@ body {
   height: 900px;
   width: 1600px;
 
-  background-image: url(/assets/img/shot-bg.png);
+  background-image: url(../img/shot-bg.png);
   background-repeat: no-repeat;
   background-position: center;
 
